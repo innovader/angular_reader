@@ -1,5 +1,5 @@
-Reader is creating an AngularJS app for their e-reader service.
+"Reader" is an AngularJS app for e-reader service.
 
 The app displays a list of books on the home page.
-When you click on a book, it takes you to the book’s description.
-When you click the Read button, it takes you to the book’s first chapter. From there, you can use the Forward and Back buttons to read the book.
+When you click on a book, it takes you to the bookâ€™s description.
+When you click the Read button, it takes you to the bookâ€™s first chapter. From there, you can use the Forward and Back buttons to read the book.
